@@ -18,5 +18,4 @@
     Scouter guiding youth,
     campfires blaze with lessons learned,
     tomorrow shines bright.
-    </p>
 </div>
